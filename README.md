@@ -1,3 +1,9 @@
+
+
+<img width="1437" alt="Screenshot 2023-10-09 at 2 44 01 AM" src="https://github.com/naraeleee/SignBridge_FE/assets/113263597/b3ceef2d-b910-4b95-95b3-7327c5499609">
+
+
+
 SignBridge 프론트엔드 Repo입니다.
 
 ## 커밋 규칙
